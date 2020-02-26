@@ -1,0 +1,7 @@
+{
+  "name": "bartRedo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
